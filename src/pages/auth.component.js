@@ -54,5 +54,5 @@ function Authpage() {
     </div>
   );
 }
-
 export default Authpage;
+
